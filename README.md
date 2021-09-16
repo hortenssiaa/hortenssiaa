@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on 'Bid & Auction Manager' Web service!
 - 🌱 I’m currently learning Data analysis with R languge working at R Studio!
 - 💬 Ask me about anything! Let's talk :) 
-- 📫 How to reach me: hortenssiaa
+- 🌺 'hortenssiaa' is the name of one of my favorite flowers!, and it's French!
 - ⚡ Fun fact: I can eat 10 bowls of Wakame(seaweed) soup at once ;)
