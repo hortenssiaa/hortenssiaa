@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can eat 10 bowls of Wakame(seaweed) soup at once ;)
 - Languages : [(https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=#6DB33F]
 - Tools : 
+- 
+<div align=center>
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza) 
+</div>
