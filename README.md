@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there こんにちは！ 안녕하세요 👋
 
 <!--
 **hortenssiaa/hortenssiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
