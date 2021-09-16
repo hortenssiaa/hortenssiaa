@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything! Let's talk :) 
 - 🌺 'hortenssiaa' is the name of one of my favorite flowers, and it's French!
 - ⚡ Fun fact: I can eat 10 bowls of Wakame(seaweed) soup at once ;)
-- Languages : [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=#6DB33F]
+- Languages : [(https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=#6DB33F]
 - Tools : 
