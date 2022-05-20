@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data analysis with R languge working at R Studio!
 - 💬 Ask me about anything! Let's talk :) 
 - 🌺 'hortenssiaa' is the name of one of my favorite flowers, and it's French!
-- ⚡ Fun fact: I can eat 10 bowls of Wakame(seaweed) soup at once ;)
+- ⚡ Fun fact: I can eat 7 bowls of Wakame(seaweed) soup at once ;)
 
 ### Tech Stack  
 
+#### language
 <p>
+    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-264DE5?style=flat-square&logo=css3&logoColor=white"/>
@@ -32,19 +34,31 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B"/>    
+</p>
+<p>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 </p>
 
+#### database
 <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+
+</p>
+
+
+#### tool & etc.
+<p>
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android&logoColor=white"/>
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
     <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JSF-000000?style=flat-square&logo=java&logoColor=white"/>
 </p>
-
 <p>
-    <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 </p>
