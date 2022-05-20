@@ -31,13 +31,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-264DE5?style=flat-square&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-EFD91D?style=flat-square&logo=javascript&logoColor=white"/>
+</p>
+<p>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B"/>    
-</p>
-<p>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 </p>
 
 #### database
@@ -60,5 +59,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JSF-000000?style=flat-square&logo=java&logoColor=white"/>
 </p>
 <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>    
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+
 </p>
