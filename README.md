@@ -1,7 +1,6 @@
 ## Hi there こんにちは！ 안녕하세요 👋
 
 - 🌎 I'm going be a World Class iOS Developer!
-- 👩🏻‍💻 나이먹고서 못하는건 키즈모델 뿐, 너의 무대는 세계야!✨
 
 <!--
 **hortenssiaa/hortenssiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
