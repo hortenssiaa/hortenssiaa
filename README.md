@@ -1,8 +1,8 @@
 ## Hi there こんにちは！ 안녕하세요 👋
 
-- 🌎 I'm going be a World Class iOS Developer!
 
 <!--
+
 **hortenssiaa/hortenssiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+- 🌎 I'm going be a World Class iOS Developer!
 - 🔭 I’m currently working on 'Bid & Auction Manager' Web service!
 - 🌱 I’m currently learning Data analysis with R languge working at R Studio!
 - 💬 Ask me about anything! Let's talk :) 
