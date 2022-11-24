@@ -6,7 +6,7 @@
 - 한국에서 처음으로 공공야외운동기구의 위치를 제공하는 웹서비스 입니다. <br>
   > Java 8, Oracle DB, JSP, Kakao Maps API, HTML/CSS, Javascript, Spring Framework
 
-<img width="630" alt="findmygym_profile" src="https://user-images.githubusercontent.com/16066576/203699270-d8ab9f34-c69f-4c00-ac88-9aecf679a098.png"> <br>
+<img width="580" alt="findmygym_profile" src="https://user-images.githubusercontent.com/16066576/203699270-d8ab9f34-c69f-4c00-ac88-9aecf679a098.png"> <br>
 
 <br>
 
@@ -15,7 +15,7 @@
 - UX/UI 디자인과 프론트엔드를 공부하며 만든 웹사이트입니다. <br>
   > HTML/CSS, Javascript, VSCode
 
-<img width="630" alt="findmygym_profile" src="https://user-images.githubusercontent.com/16066576/203701256-c64b4de0-9fc4-4eac-8fa8-f5d666e138c5.png"> <br><br>
+<img width="580" alt="findmygym_profile" src="https://user-images.githubusercontent.com/16066576/203701256-c64b4de0-9fc4-4eac-8fa8-f5d666e138c5.png"> <br><br>
 
 <!--
 
