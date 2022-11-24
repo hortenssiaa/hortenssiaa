@@ -1,10 +1,6 @@
 ## 안녕하세요 こんにちは！ Hi there, I'm a learner👋🤓
 
 ### #Projects
-*제목을 클릭하면, 결과물 / 코드를 확인할 수 있습니다.*
-
-
-<br>
 
 #### [1. 마이짐 (Find My Gym)](https://github.com/hortenssiaa/findmygym)
 - 한국에서 처음으로 공공야외운동기구의 위치를 제공하는 웹서비스 입니다. <br>
