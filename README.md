@@ -22,7 +22,8 @@
 #### [3. Swift & iOS Works](https://hortenssiaa.github.io/Portfolio/)
 - Swift와 iOS 개발을 공부하며 작업한 결과물입니다. <br>
   - Swift grammer
-  - UICollectionView, Modility, Navigation
+  - UICollectionView, AutoLayout
+  - Modility, Navigation
   - Combine, Network
 
 
