@@ -12,7 +12,7 @@
 
 
 #### [2. Hakyung's Portfolio Website](https://hortenssiaa.github.io/Portfolio/)
-- UX/UI 디자인과 프론트엔드를 공부하며 만든 웹사이트입니다. <br>
+- UX/UI 디자인과 프론트엔드를 공부하며 만든 반응형 웹사이트입니다. <br>
   > HTML/CSS, Javascript, VSCode
 
 <img width="580" alt="findmygym_profile" src="https://user-images.githubusercontent.com/16066576/203701256-c64b4de0-9fc4-4eac-8fa8-f5d666e138c5.png"> <br><br>
