@@ -29,7 +29,7 @@
 
 <br>
 
-| <img width="200" alt="appleframeworkmodility" src="https://user-images.githubusercontent.com/16066576/195789537-1a67b935-aeb2-4c9d-ba2c-58b37883b780.gif"> | <img width="200" alt="headnavi" src="https://user-images.githubusercontent.com/16066576/196177776-c619ddd8-2b0e-4bb1-b0e2-21293fd430c6.gif"> | <img width="200" alt="InstaSearchApp" src="https://user-images.githubusercontent.com/16066576/194843405-522c6729-4055-410b-ad73-b4965b2cf0d1.gif"> | <img width="200" alt="githubnetwork" src="https://user-images.githubusercontent.com/16066576/198974260-4de10e72-ca77-4ef1-b212-a588c1c11696.gif"> |
+| <a href="https://github.com/hortenssiaa/playInThePlayground/tree/master/AppleFramework_Modality"> <img width="200" alt="appleframeworkmodility" src="https://user-images.githubusercontent.com/16066576/195789537-1a67b935-aeb2-4c9d-ba2c-58b37883b780.gif"></a> | <a href="https://github.com/hortenssiaa/playInThePlayground/tree/master/HeadSpaceFocus_Navigation"> <img width="200" alt="headnavi" src="https://user-images.githubusercontent.com/16066576/196177776-c619ddd8-2b0e-4bb1-b0e2-21293fd430c6.gif"></a>  | <a href="https://github.com/hortenssiaa/playInThePlayground/tree/master/InstaSearchView"> <img width="200" alt="InstaSearchApp" src="https://user-images.githubusercontent.com/16066576/194843405-522c6729-4055-410b-ad73-b4965b2cf0d1.gif"></a>  | <img width="200" alt="githubnetwork" src="https://user-images.githubusercontent.com/16066576/198974260-4de10e72-ca77-4ef1-b212-a588c1c11696.gif"> |
 |------|------|------|------|
 
 
