@@ -38,12 +38,6 @@
 
 
 
-#### [4. Sobani ソバ二](https://github.com/hortenssiaa/Sobani)
-- Java언어로 만든 EC 프로그램입니다. <br>
-  > Java 8, Oracle DB, JSP, Spring Tool Suite 4
-
-<br><br>
-
 
 
 
