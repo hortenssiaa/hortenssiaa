@@ -1,4 +1,4 @@
-## 안녕하세요 こんにちは！ Hi there 👋🤓
+You can dream it, you can do it. 🙂
 
 <!--
 
